@@ -6,7 +6,7 @@ Refer to https://github.com/zadammac/terminal_preroll for documentation and usag
 
 """
 
-__version__ = "pre-alpha"
+__version__ = "1.0"
 
 import argparse
 from blessings import Terminal
